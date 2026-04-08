@@ -1,6 +1,6 @@
-# Schoolboost
+# schoolboost
 
-Schoolboost entwickelt moderne Softwarelösungen für Schulen und Schulträger.
+schoolboost entwickelt moderne Softwarelösungen für Schulen und Schulträger.
 
 ## Unsere Mission
 Wir unterstützen Schulen und Schulträger dabei, Verwaltungsprozesse zu vereinfachen, Kommunikation zu verbessern und digitale Abläufe nachhaltig zu optimieren.
