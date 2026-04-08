@@ -8,8 +8,6 @@
 
 ---
 
-Schoolboost entwickelt moderne Softwarelösungen für Schulen und Schulträger.
-
 schoolboost entwickelt moderne Softwarelösungen für Schulen und Schulträger.
 
 ## Unsere Mission
