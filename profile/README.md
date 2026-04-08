@@ -1,7 +1,12 @@
 <p align="center">
-  <img src="https://schoolboost.de/_next/image?url=%2Fimages%2Fschoolboost_logo.png&w=256&q=75" width="120" />
+  <img src="https://schoolboost.de/images/schoolboost_logo.png" width="220" />
 </p>
-# schoolboost
+
+<h1 align="center">Schoolboost</h1>
+
+<p align="center">
+  Moderne Softwarelösungen für Schulen und Schulträger
+</p>
 
 schoolboost entwickelt moderne Softwarelösungen für Schulen und Schulträger.
 
